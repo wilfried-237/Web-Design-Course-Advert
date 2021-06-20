@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.sec1{
+    background-color: purple;
+    padding-top: 1px;
+}
+p{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    color: white;
+    font-size: 1.3em;
+    font-weight: normal;
+    margin-top: 20px;
+}
+hr{
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.video-shell{
+    width: 80%;
+    margin: auto;
+    border: 10px solid white;
+    position: relative;
+    top: 20px;
+    height: 305px;
+}
+video{
+    width: 97%;
+    height: 97%;
+}
+.btn{
+    width: 100%;
+    margin: auto;
+}
+button{
+    padding: 20px 50px;
+    background-color: red;
+    color: white;
+    font-size: 1em;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    margin-top: 30px;
+    border: none;
+   
+}
+.sec2{
+    padding: 20px;
+    text-align: center;
+    background-color: lightgray;
+    color: #555050;
+    line-height: 40px;
+}
+.sec3{
+    padding: 20px;
+    text-align: center;
+    line-height: 40px;
+    color: grey;
+}
+footer{
+    text-align: center;
+    background-color: hsl(0, 6%, 25%);
+    padding: 30px;
+    color: lightgray;
+    font-size: 0.8em;
+}
